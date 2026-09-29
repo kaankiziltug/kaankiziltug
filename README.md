@@ -1,5 +1,3 @@
-![Kaan Kızıltuğ, Designer & Creative Technologist]
-
 Designer and creative technologist with 7+ years of practice. I build brand, interface and growth systems, and extend them with AI: LLM agents with Claude, automation pipelines in n8n, and AI-assisted design workflows that turn one good design decision into many outputs.
 
 - **Design:** brand systems, UI/UX and design systems in Figma
