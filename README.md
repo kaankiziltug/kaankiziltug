@@ -1,4 +1,6 @@
-Designer and creative technologist with 7+ years of practice. I build brand, interface and growth systems, and extend them with AI: LLM agents with Claude, automation pipelines in n8n, and AI-assisted design workflows that turn one good design decision into many outputs.
+**Designer & Builder** with 8+ years of practice, the last 4 at a cybersecurity company.
+
+I design brand, interface and growth systems, then build on them with AI: Claude agents, n8n automation pipelines, and AI-assisted design workflows that turn one good design decision into many outputs.
 
 - **Design:** brand systems, UI/UX and design systems in Figma
 - **AI & automation:** Claude agents, n8n workflows, LLM-powered content and design pipelines
